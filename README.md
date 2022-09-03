@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Wrangle and Analyze Data
 
 > Description the project.
