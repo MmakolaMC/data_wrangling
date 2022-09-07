@@ -1,7 +1,6 @@
 # Wrangle and Analyze Data
 
-> Description the project.
-Tasks:
+> Tasks:
 
 Step 1: Gathering data
 
